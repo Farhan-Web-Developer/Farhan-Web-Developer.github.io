@@ -125,7 +125,7 @@ main{
 #home {
     height: 100vh;
     width: 100%;
-    background: url('assets/images/jam121.jpeg');
+    background: url('../images/jam121.jpeg');
     background-size: cover;
     background-attachment: fixed;
     display: flex;
